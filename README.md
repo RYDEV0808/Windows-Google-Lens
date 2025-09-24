@@ -6,7 +6,7 @@ Use the hotkey: "Windows + ctrl + S" to use Windows Google Lens
 # Requirments
 * Windows
 * Chrome
-* Python (Not needed if you want to download the .exe version of LocationFinder{Reccommended})
+* Python (Not needed if you want to download the .exe version of LocationFinder{Not reccommended})
 * AutoHotKey (Not needed if you want to download the .exe version of LensForWindows{Recommended})
 
 # Download guide
