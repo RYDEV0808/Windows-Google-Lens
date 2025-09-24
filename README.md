@@ -14,3 +14,7 @@ Create a basic task with time schedular for "When the user logs in" for "LensFor
 # Notes
 * Ensure that you dont touch the keyboard or mouse so that you don't distrupt the keystrokes being sent
 * While taking a screenshot you have 5 seconds to complete it, or it will not work properly
+
+# Report
+* Microsoft Antivirus might think that "LocationFinder.exe" is a trojan virus, you can safely let it run without any promblems
+* Further bug fixes coming soon...
