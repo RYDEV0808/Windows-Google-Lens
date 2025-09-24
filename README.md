@@ -21,4 +21,4 @@ Just download both "LensForWindows", and "LocationFinder" and drop them in the s
 * It is recommended to disable notifications from Snipping Tool, or reducing the amount of time for a notification pop-up for a smooth run
 
 # Update Logs
-* LensForWindows: v1.5 -- Automatically selects the screenshot in Google Lens
+* LensForWindows: v1.5 -- Automatically selects the screenshot in Google Lens | 24/09/2025
