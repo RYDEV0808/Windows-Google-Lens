@@ -17,7 +17,7 @@ Just download both "LensForWindows", and "LocationFinder" and drop them in the s
 * While taking a screenshot you have 5 seconds to complete it, or it will not work properly
 * Create a shortcut of LensForWindows and place it in the Startup directory (Access by Windows + R, then typing "shell:startup"), this will automatically run the file on system startup
 * It is recommended to install the .exe version of LensForWindows so that AHK is not needed
-* It is recommended to install the .py version of LocationFinder as sometime Microsoft Antivirus thinks that the .exe version is a trojan virus
+* It is recommended to install the .py version of LocationFinder as sometime Microsoft Antivirus thinks that the .exe version is a trojan virus (False positive)
 * It is recommended to disable notifications from Snipping Tool, or reducing the amount of time for a notification pop-up for a smooth run
 
 # Update Logs
